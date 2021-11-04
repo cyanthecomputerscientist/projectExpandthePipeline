@@ -1,3 +1,3 @@
 general: 
 buildTool: 'docker'
-gitSshKeyCredentialsId: 'credentials-id-in-jenkins'
+# gitSshKeyCredentialsId: 'credentials-id-in-jenkins'
